@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Travel Translator</string>
+    <string name="status_ready">Ready to translate</string>
+    <string name="status_listening">Listening…</string>
+    <string name="status_processing">Processing speech…</string>
+    <string name="status_no_speech">Could not hear speech, trying again.</string>
+    <string name="status_translation_failed">Translation failed. Check internet and retry.</string>
+    <string name="status_permission_denied">Microphone permission is required.</string>
+    <string name="status_speech_not_available">Speech recognition not available on this phone.</string>
+    <string name="status_tts_failed">Text to speech engine unavailable.</string>
+    <string name="status_conversation_stopped">Conversation stopped.</string>
+    <string name="status_typed_empty">Type something first.</string>
+    <string name="status_manual_ready">Typed translation sent.</string>
+    <string name="status_listening_retry">Didn’t catch that. Listening again…</string>
+    <string name="start_conversation">Start Conversation</string>
+    <string name="stop_conversation">Stop Conversation</string>
+    <string name="type_input_hint">Optional: type text instead of speaking</string>
+    <string name="send_typed_input">Send</string>
+    <string name="audit_title">Conversation Audit</string>
+</resources>
